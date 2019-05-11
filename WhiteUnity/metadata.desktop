@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=Unity inspired Theme with white top bar based on United and Air themes 
+Name=WhiteUnity
+X-KDE-PluginInfo-Author=Paju1986 
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=paju1986@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1
+X-KDE-PluginInfo-Name=WhiteUnity
+X-KDE-PluginInfo-Version=0.1
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1001434,kns://plasma-themes.knsrc/api.kde-look.org/1298853,kns://plasmoids.knsrc/api.kde-look.org/1181039,kns://plasmoids.knsrc/api.kde-look.org/1194339,kns://plasmoids.knsrc/api.kde-look.org/1274218,kns://wallpapers.knsrc/api.kde-look.org/1299145
